@@ -1,0 +1,5 @@
+git work flow:
+
+1,modify/create anew file
+2,add it to the staging area
+3,commitit to the local repository
