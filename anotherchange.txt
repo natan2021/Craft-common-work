@@ -1,0 +1,6 @@
+notify git who you are:
+
+
+git config --global user.name "github username"
+
+git config --global user.email "github account email address"
